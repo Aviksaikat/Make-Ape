@@ -11,8 +11,8 @@
 2. clone this repo
 3. run
 ```bash
-git clone 
-cd 
+git clone https://github.com/Aviksaikat/Make-Ape 
+cd Make-Ape 
 chmod +x ./mk.sh
 ./mk.sh ~/web3/audits/blaLama
 ```
